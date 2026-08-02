@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-v2sdyh.bobatoto1wed.cyou/sitemap.xml
